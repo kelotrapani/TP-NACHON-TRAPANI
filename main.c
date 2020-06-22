@@ -16,6 +16,7 @@ int main()
 
 for(i=0;i>5;i++)
 {
+printf("ULTIMO PUSH");
 printf("numero de sucursal:%d",numsucur[i]);
 printf("total: %d",totalreca[i]);
 
