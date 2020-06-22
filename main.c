@@ -7,7 +7,7 @@ void ordenamiento(int numsucur[5],float totalreca[5],float mas800[5],int j);
 int main()
 {
     int numsucur[5],auxbuscar,j=0,i;
-    float totalreca[5],diatot[5],mas800[5];
+    float totalreca[5],diatot[5],mas800[5],TP;
 
     ingreso(numsucu,totalreca);
     busqueda(numsucur,totalreca,diatot);
